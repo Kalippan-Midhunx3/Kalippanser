@@ -79,17 +79,8 @@ $ node julie.js
 <a href="https://github.com/AMRUSIR/AMRU-SER/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AMRUSIR/AMRU-SER?color=blue&style=flat-square"></a>
 <a href="https://github.com/AMRUSIR/AMRU-SER/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AMRUSIR/AMRU-SER?label=Watchers&color=blue&style=flat-square"></a>
 </p>
-
-## 📢 Guide
-Click WA logo to Join Support Group 👇
     <br>
-<br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/DnHJu25Ccss7zn72nPhL8z)
-  <div align="center">
-       
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRUSIR&repo=AMRU-ser&theme=nightowl)](https://github.com/AMRUSIR/AMRU-SER)
-  </div>
-    
+
 ### ⚠ Warning ⚠
 
 ```
