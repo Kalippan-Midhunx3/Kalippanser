@@ -50,8 +50,8 @@ href="https://www.instagram.com/_midhun_x3__"><img src="https://img.shields.io/b
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/AMRUSIR/AMRU-SER
-$ cd AMRU-ser
+$ git clone https://github.com/Kalippan-Midhunx3/Kalippanser
+$ cd Kalippanser
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -59,8 +59,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/AMRUSIR/AMRU-SER
-$ cd AMRU-SER
+$ git clone https://github.com/Kalippan-Midhunx3/Kalippanser
+$ cd Kalippanser
 $ npm i
 $ node julie.js
 ```
@@ -68,16 +68,16 @@ $ node julie.js
 ----
 
   <p align="center">
-  <a href="https://github.com/AMRUSIR/AMRU-SER">
+  <a href="https://github.com/Kalippan-Midhunx3/Kalippanser">
     
-<a href="https://github.com/AMRUSIR/followers">
+<a href="https://github.com/Kalippan-Midhunx3/followers">
 <img src="https://img.shields.io/github/repo-size/cyberchekuthan/Kaztroserv1_v2?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/AMRUSIR/followers"
+<a href="https://github.com/Kalippan-Midhunx3/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Aj-fx?color=blue&style=flat-square"></a>
-<a href="https://github.com/AMRUSIR/AMRU-SER/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AMRUSIR/AMRU-SER?color=blue&style=flat-square"></a>
-<a href="https://github.com/AMRUSIR/AMRU-SER/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AMRUSIR/AMRU-SER?color=blue&style=flat-square"></a>
-<a href="https://github.com/AMRUSIR/AMRU-SER/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AMRUSIR/AMRU-SER?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Kalippan-Midhunx3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kalippan/Midhunx3?color=blue&style=flat-square"></a>
+<a href="https://github.com/Kalippan-Midhunx3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kalippan/Midhunx3?color=blue&style=flat-square"></a>
+<a href="https://github.com/Kalippan-Midhunx3/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Kalippan/Midhunx3?label=Watchers&color=blue&style=flat-square"></a>
 </p>
     <br>
 
