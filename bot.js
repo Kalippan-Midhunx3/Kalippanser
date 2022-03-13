@@ -114,7 +114,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         console.log(
             chalk.blueBright.italic('Confirming password...')
         );
-        if (config.AFPLK == 'amruser' || config.AFPLK == 'amrus' || config.AFPLK == 'vava' || config.AFPLK == 'Amruser') {
+        if (config.AFPLK == 'kalippanser' || config.AFPLK == 'kalippan' || config.AFPLK == 'vava' || config.AFPLK == 'Kalippan') {
         //thanks to afnanplk
         console.log(
             chalk.green.bold('thanks for watching -key cofirmed-')
@@ -154,7 +154,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('Amru Ser ' + config.WORKTYPE + ' Now 💙'));
+            chalk.green.bold('Kalippan Ser ' + config.WORKTYPE + ' Now 💙'));
           // thanks to afnanplk
 	    if (config.LANG == 'EN' || config.LANG == 'ML') {
                 await git.fetch();
@@ -277,7 +277,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                         } catch (error) {
                             if (config.NOLOG === 'off') {
                                 
-                                await conn.sendMessage(conn.user.jid, '*~_________~ Amru SER ~______~*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ KALIPPAN SER ~______~*' +
                                     '\n*🌀 Follow this page other wise chance to get erorr: https://chat.whatsapp.com/DnHJu25Ccss7zn72nPhL8z*' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
