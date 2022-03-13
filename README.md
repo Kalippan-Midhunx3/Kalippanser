@@ -28,7 +28,7 @@ Project created by <a href="https://github.com/Kalippan-Midhunx3-Kalippanser">Mi
     <br> 
 </p>
 
-## Setup
+## SETUP
 <div align="center">
 
 <p align="center">
@@ -37,7 +37,7 @@ href="https://www.instagram.com/_midhun_x3__"><img src="https://img.shields.io/b
   <a href="https://wa.me/918281370025"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
   
-  ### Simple Method
+  ### SIMPLE METHOD
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kalippan-Midhunx3/Kalippanser.git)
 
@@ -45,7 +45,7 @@ href="https://www.instagram.com/_midhun_x3__"><img src="https://img.shields.io/b
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ABUOP1/AMRU-SER-QR?v=1)
   
-### The Hard Method
+### THE HARD METHOD
 ```js
 GET QR
 $ apt install git
