@@ -87,14 +87,14 @@ $ node julie.js
 By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
 
 ```
-**[![AMRU-SER](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/917025631103?text=Can%20you%20help%20bro)**
+**[![Kalippan-Midhunx3](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/918281370025?text=Can%20you%20help%20bro)**
 
 ## Developers
   <div align="center">
     
-  [![AMRU-SER](https://github.com/AMRUSIR.png?size=100)](https://github.com/AMRUSIR) | [![Ajx-Abu](https://github.com/Ajx-Abu.png?size=100)](https://github.com/Ajx-Abu) 
+  [![Kalippan-Midhunx3](https://github.com/Kalipan-Midhunx3.png?size=100)](https://github.com/Kalippan-midhunx3)
 ----|----|----|----
-[AMRU-SER](https://github.com/AMRUSIR) | [Ajx-Abu](https://github.com/Ajx-Abu)
+[Kalippan-Midhunx3](https://github.com/Kalippan-Midhunx3)
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
