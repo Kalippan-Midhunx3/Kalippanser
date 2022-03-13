@@ -65,7 +65,7 @@ module.exports = {
     BANMSG: process.env.BAN_MESSAGE === undefined ? 'default' : process.env.BAN_MESSAGE,
     NOLOG: process.env.FIX_ERROR === undefined ? 'on' : process.env.FIX_ERROR,
     AFKMSG: process.env.AFK_MESSAGE === undefined ? 'default' : process.env.AFK_MESSAGE,
-    ALLEMOJI: process.env.CMD_LIST === undefined ? 'siya/💙/🌟/🥀/🐾' : process.env.CMD_LIST,
+    ALLEMOJI: process.env.CMD_LIST === undefined ? '/💙/🌟/🥀/🐾' : process.env.CMD_LIST,
     WEL_GIF: process.env.WEL_GIF === undefined ? 'https://i.imgur.com/nErXUGj.mp4' : process.env.WEL_GIF,
     GIF_BYE: process.env.GIF_BYE === undefined ? 'https://i.imgur.com/Z1jCYGN.mp4' : process.env.GIF_BYE,
     HANDLERS: process.env.HANDLERS === undefined ? '^[.!;]' : process.env.HANDLERS,
