@@ -43,7 +43,7 @@ href="https://www.instagram.com/_midhun_x3__"><img src="https://img.shields.io/b
 
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ABUOP1/AMRU-SER-QR?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/https://replit.com/@KalippanSer/https://replit.com/@KalippanSer/KALIPPANSER-OR)
   
 ### THE HARD METHOD
 ```js
