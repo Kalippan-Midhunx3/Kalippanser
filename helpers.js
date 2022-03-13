@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *AMRU-SER*:  ```" + msg + "```"
+    return "✅ *KALIPPAN-SER*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *AMRU-SER*:  ```" + msg + "```"
+    return "🛑 *KALIPPAN-SER*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *AMRU-SER*:  ```" + msg + "```"
+    return "⏺️ *KALIPPAN-SER*:  ```" + msg + "```"
 }
 
 
