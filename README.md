@@ -1,26 +1,18 @@
 <div align="center">
   <p align="center">
-<img src=https://i.imgur.com/Q8UeA57.png>
-</p>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+AMRUSIR+WA+BOT+REPO;CREATED+BY+AMRU+SIR;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+KALIPPANSER+WA+BOT+REPO;CREATED+BY+KALIPPAN+SER;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
 
  </a>
 </p>
 
-#### TOTAL REPO VIEWS📍
-![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
-  
-### TOTAL WEBSITE VISIT
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwhitedevil-bot.yolasite.com&count_bg=%2379C83D&title_bg=%23030303&icon=webauthn.svg&icon_color=%23FFFAFA&title=WEBSITE+VISITORS&edge_flat=false)](https://whitedevil-bot.yolasite.com)
+<img src=https://i.imgur.com/Q8UeA57.png>
+</p>
 
 
 <div align="center">
   <p align="center">
-<img src=https://i.imgur.com/CtaexU3.jpeg>
-</p>
-
-<img src=https://i.ibb.co/s1CSFK7/ae6572d653ee04f78fc986bddd89d5b3.png>
+<img src=https://www.linkpicture.com/q/20220313_142355.jpg>
 </p>
 
 
@@ -29,7 +21,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/AMRUSIR-AMRUSER">AMRU-SER</a> to make it public
+Project created by <a href="https://github.com/Kalippan-Midhunx3-Kalippanser"></a> to make it public
     <br>
        | © |
         Reserved |
@@ -37,14 +29,14 @@ Project created by <a href="https://github.com/AMRUSIR-AMRUSER">AMRU-SER</a> to 
 </p>
 
 ## Setup
-<div align="center"> 
+<div align="center">
 
-
-## Click Instagram logo to follow this page👇
-
- [![ANY DOUBT REFER IT](https://i.imgur.com/j1x0HpA.jpeg)](https://instagram.com/its_me_dron)
-
-  ### Simple Method
+<p align="center">
+  <a 
+href="https://instagram.com/_midhun_x3_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/918281370025"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</p>
+  
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AMRUSIR/AMRU-SER.git)
 
