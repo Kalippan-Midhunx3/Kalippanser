@@ -92,12 +92,11 @@ By using kick, add, promote, demote Commands, Your WhatsApp account may be banne
 ## Developers
   <div align="center">
     
-  [![Kalippan-Midhunx3](https://github.com/Kalipan-Midhunx3.png?size=100)](https://github.com/Kalippan-midhunx3)
-----|----|----|----
-[Kalippan-Midhunx3](https://github.com/Kalippan-Midhunx3)
-Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
+  [![Midhunser](https://github.com/kalippan-minnuz.png?size=100)](https://github.com/kalippan-minnuz) |  [![Midhunser](https://github.com/kalippanser-minnuz.png?size=100)](https://github.com/kalippanser-minnuz) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+----|----|---
+[Midhunser](https://github.com/kalippan-minnuz)  | [Midhunser](https://github.com/Kalippan-minnuz) | [afnanplk](https://github.com/afnanplk)
+Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
-    
 
 
 ## License
