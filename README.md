@@ -42,8 +42,8 @@ href="https://www.instagram.com/_midhun_x3__"><img src="https://img.shields.io/b
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kalippan-Midhunx3/Kalippanser.git)
 
 
-  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/https://replit.com/@KalippanSer/https://replit.com/@KalippanSer/KALIPPANSER-OR)
+
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KalippanSer/KALIPPANSER-OR?v=1)
   
 ### THE HARD METHOD
 ```js
