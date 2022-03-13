@@ -1,124 +1,105 @@
-<div align="center">
-  <p align="center">
-<img src=https://i.imgur.com/Q8UeA57.png>
-</p>
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+AMRUSIR+WA+BOT+REPO;CREATED+BY+AMRU+SIR;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
-
- </a>
-</p>
-
-#### TOTAL REPO VIEWS📍
-![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
-  
-### TOTAL WEBSITE VISIT
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwhitedevil-bot.yolasite.com&count_bg=%2379C83D&title_bg=%23030303&icon=webauthn.svg&icon_color=%23FFFAFA&title=WEBSITE+VISITORS&edge_flat=false)](https://whitedevil-bot.yolasite.com)
-
+# Wizard-Ser
 
 <div align="center">
-  <p align="center">
-<img src=https://i.imgur.com/CtaexU3.jpeg>
-</p>
+  <img border-radius: 15px src="https://i.imgur.com/1PWx69w.jpeg" width="200" height="200"/>
 
-<img src=https://i.ibb.co/s1CSFK7/ae6572d653ee04f78fc986bddd89d5b3.png>
-</p>
-
-
-  <p align="center">
-<a href="https:"><img title="Author" src="https://img.shields.io/badge/Author--Amruthesh/AMRU-SER?color=blue&style=for-the-badge&logo=whatsapp"></a>
-</p>
-</div>
 <p align="center">
-Project created by <a href="https://github.com/AMRUSIR-AMRUSER">AMRU-SER</a> to make it public
-    <br>
-       | © |
-        Reserved |
-    <br> 
+  <a href="https://instagram.com/ajmal_ibn_shanavas"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/918590967139"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
-## Setup
-<div align="center"> 
-
-
-## Click Instagram logo to follow this page👇
-
- [![ANY DOUBT REFER IT](https://i.imgur.com/j1x0HpA.jpeg)](https://instagram.com/its_me_dron)
-
-  ### Simple Method
-  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AMRUSIR/AMRU-SER.git)
-
-
-
-  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ABUOP1/AMRU-SER-QR?v=1)
-  
-### The Hard Method
-```js
-GET QR
-$ apt install git
-$ apt install nodejs --fix-missing
-$ git clone https://github.com/AMRUSIR/AMRU-SER
-$ cd AMRU-ser
-$ npm install @adiwajshing/baileys
-$ npm install chalk
-$ node julie.js
-```
-      
-```js
-SETUP
-$ git clone https://github.com/AMRUSIR/AMRU-SER
-$ cd AMRU-SER
-$ npm i
-$ node julie.js
-```
-
-----
-
-  <p align="center">
-  <a href="https://github.com/AMRUSIR/AMRU-SER">
-    
-<a href="https://github.com/AMRUSIR/followers">
-<img src="https://img.shields.io/github/repo-size/cyberchekuthan/Kaztroserv1_v2?color=green&label=Repo%20total%20size&style=plastic">
+## <!-- Typing SVG -->
 <p align="center">
-<a href="https://github.com/AMRUSIR/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/Aj-fx?color=blue&style=flat-square"></a>
-<a href="https://github.com/AMRUSIR/AMRU-SER/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AMRUSIR/AMRU-SER?color=blue&style=flat-square"></a>
-<a href="https://github.com/AMRUSIR/AMRU-SER/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AMRUSIR/AMRU-SER?color=blue&style=flat-square"></a>
-<a href="https://github.com/AMRUSIR/AMRU-SER/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AMRUSIR/AMRU-SER?label=Watchers&color=blue&style=flat-square"></a>
+    <a href="https://git.io/J0hKr">
+        <img
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Wizard+Ser+Is+A+Modified+Version+Of;Eva+By+SudoAnirudh;We+Have+Cloned+The+Project+And+Added;Some+More+Things."
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+
+## ```HOW TO DEPLOY```
+`WATCH THE TUTORIAL VIDEO CAREFULLY TO DEPLOY THE BOT OTHERWISE CHANCES TO GET ERROR`
+
+[`Click Here For Tutorial`](https://youtu.be/5shzvYdTasw)
+
+----------
+
+<p align="center">
+  <a href="https://youtu.be/5shzvYdTasw"><img src="https://i.imgur.com/XkDscpl.jpeg" />
+</p>
+
+-------
+
+
+## `SCAN QR`
+
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AjmalAchu123/Wizard-Ser-Qr-test)
+
+## `DEPLOY`
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app) 
+
+Test
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/Wizard-Ser) 
+----------
+
+
+## `ADD BUILDPACK`
+
+```
+heroku/nodejs
+```
+```
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+```
+```
+https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
+```
+
+## `CHANGE DYNO`
+
+`TURN OFF WEB NODE SERVER AND ENABLE WORKER NPM START`
+
+<p align="center">
+  <a href="https://github.com/Ajmal-Achu/Wizrad-Ser"><img src="https://i.imgur.com/aSw2GKZ.jpeg" />
 </p>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/DnHJu25Ccss7zn72nPhL8z)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/IpM871JDwkSLLjenjV1YD4)
   <div align="center">
-       
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRUSIR&repo=AMRU-ser&theme=nightowl)](https://github.com/AMRUSIR/AMRU-SER)
-  </div>
-    
-### ⚠ Warning ⚠
 
-```
-By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
-
-```
-**[![AMRU-SER](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/917025631103?text=Can%20you%20help%20bro)**
 
 ## Developers
   <div align="center">
-    
-  [![AMRU-SER](https://github.com/AMRUSIR.png?size=100)](https://github.com/AMRUSIR) | [![Ajx-Abu](https://github.com/Ajx-Abu.png?size=100)](https://github.com/Ajx-Abu) 
-----|----|----|----
-[AMRU-SER](https://github.com/AMRUSIR) | [Ajx-Abu](https://github.com/Ajx-Abu)
-Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
-  </div>
-    
+  
+  [![SudoAnirudh](https://telegra.ph/file/b75e00136978ddd1aa558.jpg)](https://github.com/SudoAnirudh)[`SudoAnirudh`](https://github.com/SudoAnirudh)
+----|
+   `Base, Bug Fixes, Modules`
+
+  [![Ajmal](https://i.imgur.com/0eDfjxn.jpeg)](https://github.com/Ajmal-Achu)[`Ajmal`](https://github.com/Ajmal-Achu)
+----|
+   `Re-Developer, Bug Fixes, Modules, Commits`
+
+   [![Achu](https://i.imgur.com/sKzm7EK.jpeg)](https://github.com/Ajmal-Achu)[`Achu`](https://github.com/Ajmal-Achu)
+----|
+   `Re-Developer, Bug Fixes, Modules, Commits`
+
+   [![DEVILSER](https://i.imgur.com/CqEfYef.jpeg)](https://github.com/DEVILSER)[`DEVILSER`](https://github.com/DEVILSER)
+----|
+   `Bug Fixes, Modules, Commits`
+
+[![JOKER_SER](https://telegra.ph/file/360ff7e7ca78006e5f8ad.jpg)](https://github.com/JOKER_SER)[`JOKER_SER`](https://github.com/JOKER_SER)
+----|
+   `Bug Fixes, Modules, Commits`
+
+[![SafwanGanz](https://telegra.ph/file/600e12ac7fbd5e766716c.jpg)](https://github.com/SafwanGanz)[`SafwanGanz`](https://github.com/SafwanGanz)
+----|
+   `Bug Fixes, Modules`
 
 
-## License
-This project is protected by `GNU General Public Licence v3.0` license.
-
-### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+                                  
+  </div
