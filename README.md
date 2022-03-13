@@ -21,7 +21,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Kalippan-Midhunx3-Kalippanser">Kalippan-Midhunx3</a> to make it public
+Project created by <a href="https://github.com/Kalippan-Midhunx3-Kalippanser">Midhunx3</a> to make it public
     <br>
        | © |
         Reserved |
@@ -36,7 +36,6 @@ Project created by <a href="https://github.com/Kalippan-Midhunx3-Kalippanser">Ka
 href="https://www.instagram.com/_midhun_x3__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/918281370025"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
-  
   
   ### Simple Method
   
