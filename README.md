@@ -78,20 +78,15 @@ $ node julie.js
 <a href="https://github.com/Kalippan-Midhunx3/Kalippanser"><img title="Forks" src="https://img.shields.io/github/forks/Kalippan-Midhunx3/Kalippanser?color=blue&style=flat-square"></a>
 <a href="https://github.com/Kalippan-Midhunx3/Kalippanser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Kalippan-Midhunx3/Kalippanser?label=Watchers&color=blue&style=flat-square"></a>
 </p>
-
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kalippan-Midhunx3/Kalippanser&repo=KALIPPAN-ser&theme=nightowl)](https://github.com/Kalippan-Midhunx3/Kalippanser)
-  </div>
+<div align="center">
     
-### ⚠ Warning ⚠
+### ⚠ WARING ⚠
 
 ```
 By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
 
 ```
-**[!MIDHUN](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/917025631103?text=Can%20you%20help%20bro)**
-
-## Developers
+## DEVELOPERS
   <div align="center">
     
   [![Midhunser](https://github.com/Kalippan-Midhunx3.png?size=100)](https://github.com/Kalippan-Midhunx3) |  [![Midhunser](https://github.com/Kalippan-Midhunx3.png?size=100)](https://github.com/Kalippan-Midhunx3) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
