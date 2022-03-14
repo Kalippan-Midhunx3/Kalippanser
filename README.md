@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-<img src=https://www.linkpicture.com/q/IMG_20220314_142824.png>
+<img src=https://www.linkpicture.com/q/IMG_20220314_143049.png>
 </p>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+KALIPPANSER+WA+BOT+REPO;CREATED+BY+KALIPPAN+SIR;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
