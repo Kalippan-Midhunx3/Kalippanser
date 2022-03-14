@@ -11,7 +11,7 @@
 
 <div align="center">
   <p align="center">
-<img src=https://i.imgur.com/CtaexU3.jpeg>
+<img src=https://www.linkpicture.com/q/20220313_142355_1.jpg>
 </p>
 
   <p align="center">
