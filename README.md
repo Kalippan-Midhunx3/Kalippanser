@@ -19,6 +19,11 @@
 </p>
 </div>
 <p align="center">
+  <a href="https://instagram.com/_midhun_x3__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/918281370025"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</p>
+</a>
+<p align="center">
 Project created by <a href="https://github.com/Kalippan-Midhunx3">KALIPPAN-SER</a> to make it public
     <br>
        | © |
@@ -89,10 +94,10 @@ By using kick, add, promote, demote Commands, Your WhatsApp account may be banne
 ## Developers
   <div align="center">
     
-  [![AMRU-SER](https://github.com/AMRUSIR.png?size=100)](https://github.com/AMRUSIR) | [![Ajx-Abu](https://github.com/Ajx-Abu.png?size=100)](https://github.com/Ajx-Abu) 
-----|----|----|----
-[AMRU-SER](https://github.com/AMRUSIR) | [Ajx-Abu](https://github.com/Ajx-Abu)
-Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
+  [![Midhunser](https://github.com/Kalippan-Midhunx3.png?size=100)](https://github.com/Kalippan-Midhunx3) |  [![Midhunser](https://github.com/Kalippan-Midhunx3.png?size=100)](https://github.com/Kalippan-Midhunx3) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+----|----|---
+[Midhunser](https://github.com/kalippan-minnuz)  | [Midhunser](https://github.com/Kalippan-minnuz) | [afnanplk](https://github.com/afnanplk)
+Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
 
