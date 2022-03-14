@@ -10,7 +10,7 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.imgur.com/CtaexU3.jpeg";
+    r_text[0] = "https://www.linkpicture.com/q/amalser_1.png";
     
     
     var i = Math.floor(1*Math.random())
@@ -18,7 +18,7 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━💙SETVAR💙━━⛦
-💖THIS BOT CREATED BY AMRU BY AMRUTHESH.
+💖THIS BOT CREATED BY KALIPPAN BY MIDHUN.
   
 *ẉa.me/➳Setvar*
 ■□■□■□■□■□■□■□■□■□■□
@@ -84,21 +84,21 @@ All setvars are
  To change bad word remove list
  .setvar THERI_LIST:badword,badword
 
- To change ABUSER bot name
+ To change KALIPPANSER bot name
  .setvar BOT_NAME:your bot name
 
  To get a song when your number is mentioned
  .setvar TAG_REPPLY:your jid 
 
-     *happy using Amruser bot 💙*
+     *happy using KALIPPANSER bot 💙*
 
-*Editing And Devaloper : AMRU!AMRUTHESH💕*
+*Editing And Devaloper : KALIPPAN!MIDHUN💕*
 
-*Erorr Fixing : Farhan -ABU SER💕*
+*Erorr Fixing : Farhan - KALIPPAN💕*
 
-*Supporting : ABU SER💕*
+*Supporting : KALIPPAN SER💕*
 
-*User Support : AMRU SER💕*
+*User Support : KALIPPAN SER💕*
 
      💙═════💙═════💙
 `}) 
