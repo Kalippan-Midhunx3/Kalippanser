@@ -20,18 +20,18 @@ var ddd = ggg.toString('utf-8')
 Neotro.addCommand({pattern: 'help', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
 // send a list message!
     const rows = [
-        {title: 'Kᴀʟɪᴘᴘᴀɴ sᴇʀ Oᴡɴᴇʀs Nᴜᴍʙᴇʀ', description: "⚙Bᴏᴛ Oᴡɴᴇʀ Nᴜᴍᴇʀ\n\n\n*◁ === Tɪs Oᴡɴᴇʀs Kᴀʟɪᴘᴘᴀɴ Nᴀɴʙᴜɴᴢ Aɴᴅ Cʜᴜɴᴋs === ▷*\n\n🎭 *Kᴀʟɪᴘᴘᴀɴ sᴇʀ Bʏ Kᴀʟɪᴘᴘᴀɴ sᴇʀ *\n 🔮 http://wa.me/+918281370025.\n\n🎭 *Kᴀʟɪᴘᴘᴀɴ sᴇʀ Bʏ Oɢɢʏ sᴇʀ*\n🔮 http://wa.me/+919400048101\n\n🎭 *Kᴀʟɪᴘᴘᴀɴ sᴇʀ Bʏ Tʀᴏxɪɴ sᴇʀ*\n🔮 http://wa.me+919633049651\n\n🎭 *Kᴀʟɪᴘᴘᴀɴ sᴇʀ Bʏ Aᴘᴘᴜ Sᴇʀ*\n🔮 http://wa.me/+918590432917\n\n ", rowId:" rowid1"},
-        {title: 'Gɪᴛ', description: "Aʙᴜ Sᴇʀ Bᴏᴛ Mᴀᴋɪɴɢ Lɪɴᴋ.\n\n\n*◁ === 🥰🤗 Gɪᴛ Lɪɴᴋ === ▷*\n\nhttps://github.com/Arx-Abu/Abu_ser\n\n ", rowId:"rowid2"},
-        {title: 'Kᴀʟɪᴘᴘᴀɴ sᴇʀ Oғғɪᴄᴀʟ Gʀᴏᴜᴘ Bʏ Oɢɢʏ, description: "Gʀᴏᴜᴘ Lɪɴᴋ .\n\n\nhttps://chat.whatsapp.com/CDNbORWtY1KCPyrm5qNyIl\n\n ", rowId:" rowid5"},
-        {title: 'Oɢɢʏ Sᴇʀ Cʜᴀɴᴀʟ Lɪɴᴋ ', description: "Cʜᴀɴᴀʟ\n\n\n*Kᴀʟᴀɴ Sᴇʀ Cʜᴀɴᴀʟ Sᴜʙsᴄʀᴀɪʙᴇ*\n\n*https://youtu.be/tzq89jsNOmE* ", rowId:" rowid6"},
+        {title: 'Kᴀʟɪᴘᴘᴀɴ sᴇʀ Oᴡɴᴇʀs Nᴜᴍʙᴇʀ', description: "⚙Bᴏᴛ Oᴡɴᴇʀ Nᴜᴍᴇʀ\n\n\n*◁ === Tɪs Oᴡɴᴇʀs Kᴀʟɪᴘᴘᴀɴ Nᴀɴʙᴜɴ Aɴᴅ Cʜᴜɴᴋs === ▷*\n\n🎭 *Kᴀʟɪᴘᴘᴀɴ Bᴏᴛ Bʏ Kᴀʟɪᴘᴘᴀɴ sᴇʀ *\n 🔮 http://wa.me/+918281370025.\n\n🎭 *Aᴘᴀʀɴᴀ Bᴏᴛ Bʏ Mɪᴅʜᴜɴ-x3 Sᴇʀ*\n🔮 http://wa.me/+91828!370025\n\n🎭 *Kᴀʟɪᴘᴘᴀɴ Bᴏᴛ Bʏ Oɢɢʏ*\n🔮 http://wa.me/+919400048101\n\n🎭 *Kᴀʟɪᴘʟᴀɴ Bᴏᴛ Bʏ Aᴘᴀʀɴᴀ sᴇᴄʜɪ*\n🔮 http://wa.me/+918590655022\n\n ", rowId:" rowid1"},
+        {title: 'Gɪᴛ', description: "Aᴘᴀʀɴᴀ Sᴇʀ Bᴏᴛ Mᴀᴋɪɴɢ Lɪɴᴋ.\n\n\n*◁ === 🥰🤗 Gɪᴛ Lɪɴᴋ === ▷*\n\nhttps://github.com/Midhun-kalippan/Aparna-Mwol\n\n ", rowId:"rowid2"},
+        {title: 'Aᴘᴀʀɴᴀ Bᴏᴛ Oғғɪᴄᴀʟ Gʀᴏᴜᴘ Bʏ Oɢɢʏ', description: "Gʀᴏᴜᴘ Lɪɴᴋ .\n\n\nhttps://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk\n\n ", rowId:" rowid5"},
+        {title: 'Aᴘᴀʀɴᴀ Sᴇʀ Cʜᴀɴᴀʟ Lɪɴᴋ ', description: "Oggy Bᴏᴛ Mᴀᴋɪɴɢ Vɪᴅᴇᴏ Tʜɪs Cʜᴀɴᴀʟ\n\n\n*Oɢɢʏ Sᴇʀ Cʜᴀɴᴀʟ Sᴜʙsᴄʀᴀɪʙᴇ*\n\n*https://youtube.com/channel/UC1D6jQ-8pJd1PHCn8AIC_dA* ", rowId:" rowid6"},
         {title: 'Bᴏᴛ Gʀᴏᴜᴘ Dᴇsᴄʀɪᴘᴛɪᴏɴ', description: "Nɪʏᴀᴍᴀᴍ Iɴɪ Eʟʟᴀᴠᴀʀᴋᴋᴜᴍ Bᴀᴅʜᴀᴋᴀ Mᴀɴ \n\n\n☃️ᴏɴɴᴜᴍ ɪʟʟᴀ ɢʀᴏᴜᴘ ᴅᴇsᴄʀɪᴘᴛɪᴏɴ😁 \n\n  ", rowId:" rowid7"}
        ]
        
-       const sections = [{title: "Kᴀʟɪᴘᴘᴀɴ sᴇʀ ❤️", rows: rows}]
+       const sections = [{title: "Kᴀʟɪᴘᴘᴀɴsᴇʀ ❤️", rows: rows}]
        
        const button = {
-        buttonText: '💚Kᴀʟɪᴘᴘᴀɴ sᴇʀ💚',
-        description: "💖✻Kᴀʟɪᴘᴘᴀɴ sᴇʀ Bᴏᴛ✻💖",
+        buttonText: '💚Kᴀʟɪᴘᴘᴀɴ Bᴏᴛ💚',
+        description: "💖✻Kᴀʟɪᴘᴘᴀɴ Bᴏᴛ✻💖",
         sections: sections,
         listType: 1
        }
