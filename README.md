@@ -3,7 +3,7 @@
 <img src=https://i.imgur.com/Q8UeA57.png>
 </p>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+AMRUSIR+WA+BOT+REPO;CREATED+BY+AMRU+SIR;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+KALIPPANSER+WA+BOT+REPO;CREATED+BY+KALIPPAN+SIR;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
 
  </a>
 </p>
@@ -14,31 +14,23 @@
 <img src=https://i.imgur.com/CtaexU3.jpeg>
 </p>
 
-<img src=https://i.ibb.co/s1CSFK7/ae6572d653ee04f78fc986bddd89d5b3.png>
-</p>
-
-
   <p align="center">
-<a href="https:"><img title="Author" src="https://img.shields.io/badge/Author--Amruthesh/AMRU-SER?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https:"><img title="Author" src="https://img.shields.io/badge/Author--MIDHUN/KKALIPPAN-SER?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/AMRUSIR-AMRUSER">AMRU-SER</a> to make it public
+Project created by <a href="https://github.com/Kalippan-Midhunx3">KALIPPAN-SER</a> to make it public
     <br>
        | © |
         Reserved |
     <br> 
 </p>
 
-## Setup
+## SETUP
 <div align="center"> 
 
 
-## Click Instagram logo to follow this page👇
-
- [![ANY DOUBT REFER IT](https://i.imgur.com/j1x0HpA.jpeg)](https://instagram.com/its_me_dron)
-
-  ### Simple Method
+  ### SIMPLE METHOD
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kalippan-Midhunx3/Kalippanser.git)
 
@@ -47,13 +39,13 @@ Project created by <a href="https://github.com/AMRUSIR-AMRUSER">AMRU-SER</a> to 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KalippanSer/KALIPPANSER-OR?v=1)
   
-### The Hard Method
+### THE HARD METHOD
 ```js
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/AMRUSIR/AMRU-SER
-$ cd AMRU-ser
+$ git clone https://github.com/Kalippan-Midhunx3/Kalippanser
+$ cd KALIPPAN-ser
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -61,8 +53,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/AMRUSIR/AMRU-SER
-$ cd AMRU-SER
+$ git clone https://github.com/Kalippan-Midhunx3/Kalippanser
+$ cd KALIPPAN-SER
 $ npm i
 $ node julie.js
 ```
@@ -70,26 +62,20 @@ $ node julie.js
 ----
 
   <p align="center">
-  <a href="https://github.com/AMRUSIR/AMRU-SER">
+  <a href="https://github.com/Kalippan-Midhunx3/Kalippanser/followers">
     
-<a href="https://github.com/AMRUSIR/followers">
+<a href="https://github.com/Kalippan-Midhunx3/">
 <img src="https://img.shields.io/github/repo-size/cyberchekuthan/Kaztroserv1_v2?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/AMRUSIR/followers"
+<a href="https://github.com/Kalippan-Midhunx3/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Aj-fx?color=blue&style=flat-square"></a>
-<a href="https://github.com/AMRUSIR/AMRU-SER/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AMRUSIR/AMRU-SER?color=blue&style=flat-square"></a>
-<a href="https://github.com/AMRUSIR/AMRU-SER/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AMRUSIR/AMRU-SER?color=blue&style=flat-square"></a>
-<a href="https://github.com/AMRUSIR/AMRU-SER/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AMRUSIR/AMRU-SER?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Kalippan-Midhunx3/Kalippanser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kalippan-Midhunx3/Kalippanser?color=blue&style=flat-square"></a>
+<a href="https://github.com/Kalippan-Midhunx3/Kalippanser"><img title="Forks" src="https://img.shields.io/github/forks/Kalippan-Midhunx3/Kalippanser?color=blue&style=flat-square"></a>
+<a href="https://github.com/Kalippan-Midhunx3/Kalippanser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Kalippan-Midhunx3/Kalippanser?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
-## 📢 Guide
-Click WA logo to Join Support Group 👇
-    <br>
-<br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/DnHJu25Ccss7zn72nPhL8z)
-  <div align="center">
-       
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRUSIR&repo=AMRU-ser&theme=nightowl)](https://github.com/AMRUSIR/AMRU-SER)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kalippan-Midhunx3/Kalippanser&repo=KALIPPAN-ser&theme=nightowl)](https://github.com/Kalippan-Midhunx3/Kalippanser)
   </div>
     
 ### ⚠ Warning ⚠
@@ -98,7 +84,7 @@ Click WA logo to Join Support Group 👇
 By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
 
 ```
-**[![AMRU-SER](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/917025631103?text=Can%20you%20help%20bro)**
+**[!MIDHUN](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/917025631103?text=Can%20you%20help%20bro)**
 
 ## Developers
   <div align="center">
